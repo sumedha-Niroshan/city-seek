@@ -11,6 +11,7 @@ export default function App() {
 }
 
 const my = "new";
+const test = 'test';
 
 const styles = StyleSheet.create({
   container: {
