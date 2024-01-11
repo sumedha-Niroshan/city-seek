@@ -20,7 +20,11 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#ffffff",
+        "googleaServicesFile":"./google-service.json",
+        "package": "com.cityseek.findplace",
+        "googleMapApiKey":"AIzaSyDppKg72RWHg-AoPd0FputWT1ZLSPoGc24"
+        
       }
     },
     "web": {

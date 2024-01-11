@@ -7,7 +7,6 @@ import {
   Dimensions,
 } from "react-native";
 import React from "react";
-import black from "./../../Shared/Colors";
 
 export default function Header() {
   return (
@@ -45,7 +44,7 @@ const styles = StyleSheet.create({
 
   searchBar: {
     borderWidth: 1,
-    borderBlockColor: black,
+    borderBlockColor: "#000",
     padding: 4,
     borderRadius: 50,
     paddingLeft: 10,
